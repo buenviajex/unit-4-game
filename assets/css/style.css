@@ -1,0 +1,78 @@
+body {
+    background-image: url("../images/electromag3.jpg");
+}
+
+h1 {
+    color: white;
+    background: orange;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 250px;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.instructions {
+    background: tan;
+    color: green;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 400px;
+}
+
+.goal {
+    background: green;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 60px;
+}
+
+.winloss {
+    background: skyblue;
+    width: 80px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 100px;
+    padding: 0px;   
+}
+
+.gem {
+    
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+    clear: both;
+}
+
+
+
+.totalScore {
+    width: 200px;
+    background: teal;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px; 
+
+}
+
+.current {
+    background: teal;
+    color: white;
+    padding-bottom: 25px;
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
